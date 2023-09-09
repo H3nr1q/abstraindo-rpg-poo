@@ -1,0 +1,14 @@
+C:\Projetos\Estudo\abstraindo-rpg-poo\bin\Debug\net7.0\abstraindo-rpg-poo.exe
+C:\Projetos\Estudo\abstraindo-rpg-poo\bin\Debug\net7.0\abstraindo-rpg-poo.deps.json
+C:\Projetos\Estudo\abstraindo-rpg-poo\bin\Debug\net7.0\abstraindo-rpg-poo.runtimeconfig.json
+C:\Projetos\Estudo\abstraindo-rpg-poo\bin\Debug\net7.0\abstraindo-rpg-poo.dll
+C:\Projetos\Estudo\abstraindo-rpg-poo\bin\Debug\net7.0\abstraindo-rpg-poo.pdb
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.AssemblyInfoInputs.cache
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.AssemblyInfo.cs
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.dll
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\refint\abstraindo-rpg-poo.dll
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.pdb
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\abstraindo-rpg-poo.genruntimeconfig.cache
+C:\Projetos\Estudo\abstraindo-rpg-poo\obj\Debug\net7.0\ref\abstraindo-rpg-poo.dll
